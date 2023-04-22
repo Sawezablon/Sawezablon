@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center">🧑‍💻 Zablon |</h2>
+<h2 align="center">🧑‍💻 Zablon | 🖥 Software Engineer | 🇰🇪 Nairobi, Kenya</h2>
 <!--
 **Sawezablon/Sawezablon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
