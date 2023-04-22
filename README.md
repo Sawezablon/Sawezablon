@@ -1,5 +1,7 @@
-### Hi there 👋 
-<img align="center" width="100" height="100" src="https://github.com/Sawezablon/Sawezablon/blob/main/Images/WhatsApp%20Image%202023-04-22%20at%207.20.53%20AM.jpeg?raw=true">
+### Hi there 👋
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/Sawezablon/Sawezablon/blob/main/Images/WhatsApp%20Image%202023-04-22%20at%207.20.53%20AM.jpeg?raw=true)">
+</p>
 <h2 align="center">🙆‍♂️ Zablon | 🖥 Software Engineer | 🪐 Nairobi, Kenya</h2>
 <!--
 **Sawezablon/Sawezablon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
