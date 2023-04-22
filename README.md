@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center">
   <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/Sawezablon/Sawezablon/blob/main/Images/WhatsApp%20Image%202023-04-22%20at%207.20.53%20AM.jpeg?raw=true)">
 </p>
