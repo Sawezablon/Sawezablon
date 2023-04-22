@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="right" width="100" height="100" src="https://github.com/Sawezablon/Sawezablon/blob/main/Images/WhatsApp%20Image%202023-04-22%20at%207.20.53%20AM.jpeg?raw=true">
+### Hi there 👋 <img align="center" width="100" height="100" src="https://github.com/Sawezablon/Sawezablon/blob/main/Images/WhatsApp%20Image%202023-04-22%20at%207.20.53%20AM.jpeg?raw=true">
 
 
 
